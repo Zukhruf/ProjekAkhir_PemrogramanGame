@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson03.vcxproj, Lesson04.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+d:\documents\pemrograman_game\vs\lesson05\demo.cpp(152): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lesson05.vcxproj -> D:\Documents\Pemrograman_Game\vs\Debug\Lesson05.exe
+  Lesson05.vcxproj -> D:\Documents\Pemrograman_Game\vs\Debug\Lesson05.pdb (Partial PDB)
